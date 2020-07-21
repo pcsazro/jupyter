@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="wheels <= 13.5\ngini = 0.75\nsamples = 80000\nvalue = [19962, 20007, 19948, 20083]\nclass = truck", fillcolor="#ffffff"] ;
+1 [label="pax <= 7.0\ngini = 0.667\nsamples = 59917\nvalue = [19962, 20007, 19948, 0]\nclass = bus", fillcolor="#ffffff"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="class <= 1.5\ngini = 0.5\nsamples = 39910\nvalue = [19962, 0, 19948, 0]\nclass = bike", fillcolor="#ffffff"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 19962\nvalue = [19962, 0, 0, 0]\nclass = bike", fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 19948\nvalue = [0, 0, 19948, 0]\nclass = car", fillcolor="#399de5"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 20007\nvalue = [0, 20007, 0, 0]\nclass = bus", fillcolor="#47e539"] ;
+1 -> 5 ;
+6 [label="gini = 0.0\nsamples = 20083\nvalue = [0, 0, 0, 20083]\nclass = truck", fillcolor="#d739e5"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
