@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="AMT <= 1433345.156\ngini = 0.8\nsamples = 5\nvalue = [1, 1, 1, 1, 1]\nclass = 10s", fillcolor="#ffffff"] ;
+1 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0, 0]\nclass = 10s", fillcolor="#e58139"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="AMT/ONE <= 20157.376\ngini = 0.75\nsamples = 4\nvalue = [0, 1, 1, 1, 1]\nclass = 20s", fillcolor="#ffffff"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0, 0]\nclass = 20s", fillcolor="#7be539"] ;
+2 -> 3 ;
+4 [label="AMT <= 3188516.125\ngini = 0.667\nsamples = 3\nvalue = [0, 0, 1, 1, 1]\nclass = 30s", fillcolor="#ffffff"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 1]\nclass = 50s", fillcolor="#e539c0"] ;
+4 -> 5 ;
+6 [label="AMT/ONE <= 24999.055\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 1, 1, 0]\nclass = 30s", fillcolor="#ffffff"] ;
+4 -> 6 ;
+7 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0, 0]\nclass = 30s", fillcolor="#39e5c5"] ;
+6 -> 7 ;
+8 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 1, 0]\nclass = 40s", fillcolor="#3c39e5"] ;
+6 -> 8 ;
+}
