@@ -1,0 +1,69 @@
+Couple,Season,Name,Age,Gender,Occupation,Decision,Status
+1,1,Jamie Otis-Hehner,27,F,Nurse,1,1
+1,1,Doug Hehner,31,M,Software salesman,1,1
+2,1,Cortney Hendrix,26,F,Make-up artist,1,0
+2,1,Jason Carrion,27,M,Fireman,1,0
+3,1,Monet Bell,33,F,Product development manager,0,0
+3,1,Vaughn Copeland,30,M,Field service technician,0,0
+4,2,Jaclyn Methuen,30,F,Vodka saleswoman,1,0
+4,2,Ryan Ranellone,28,M,Real estate agent,1,0
+5,2,Davina Kullar (0w Davis),34,F,Pharmaceutical saleswoman,0,0
+5,2,Sean Varricchio,35,M,Trauma nurse,0,0
+6,2,Jessica Castro,30,F,Receptionist,1,0
+6,2,Ryan DeNi0/Oehl,29,M,Businessman,1,0
+7,3,Vanessa Nelson,26,F,Event manager,1,0
+7,3,Tres Russell,27,M,Luxury car salesman,1,0
+8,3,Ashley Doherty,30,F,Nursing student,0,0
+8,3,David 0rton,29,M,Software account executive,1,0
+9,3,Samantha Role,30,F,Bank manager,1,0
+9,3,Neil Bowlus,31,M,Compliance specialist,1,0
+10,4,Sonia Granados,33,F,Social worker,1,0
+10,4,Nick Pendergrast,32,M,Vacation rental manager,1,0
+11,4,Heather Seidel,32,F,Flight attendant,0,0
+11,4,Derek Schwartz,35,M,Account executive,0,0
+12,4,Lillian Vilchez,24,F,Realtor,1,0
+12,4,Tom Wilson,29,M,Boat interior designer,1,0
+13,5,Danielle DeGroot,30,F,Dietician,1,0
+13,5,Cody Knapek,26,M,Trainer / gym owner,1,0
+14,5,Sheila Downs,31,F,School district facility director,1,0
+14,5,Nate Duhon,26,M,Branch manager of a car rental company,1,0
+15,5,Ashley Petta,30,F,Manager of family-owned bar & grill,1,1
+15,5,Anthony D'Amico,33,M,Sale account executive,1,1
+16,6,Shawniece Jackson,29,F,Cosmetologist,1,1
+16,6,Jephte Pierre,26,M,2nd grade school teacher,1,1
+17,6,Molly Duff,25,F,Commercial insurance adjuster,0,0
+17,6,Jonathan Francetic,28,M,Financial associate,0,0
+18,6,Jaclyn Schwartzberg,29,F,Technical sales representative,1,0
+18,6,Ryan Buckley,29,M,Firefighter,1,0
+19,7,Mia Bally,29,F,International recruiter of an airline,1,0
+19,7,Tristan Thompson,29,M,Tutoring club owner,1,0
+20,7,Danielle Bergman-Dodd,30,F,Software saleswoman,1,1
+20,7,Bobby Dodd,27,M,Construction project manager,1,1
+21,7,Amber Martorana,36,F,Senior title analyst,1,0
+21,7,Dave Flaherty,37,M,High yield bond trader,1,0
+22,8,Stephanie Sersen,35,F,Financial consultant,1,1
+22,8,AJ Vollmoeller,37,M,President & CEO of a staffing & recruiting company,1,1
+23,8,Jasmine McGriff,30,F,Assistant director,1,0
+23,8,Will Guess,37,M,Financial analyst,0,0
+24,8,Kate Sisk,28,F,Hotel marketing specialist,0,0
+24,8,Luke Cuccurullo,31,M,Civil and environmental engineer,0,0
+25,8,Kristine Killingsworth,29,F,Residential real estate agent,1,1
+25,8,Keith Dewar,29,M,Kidney dialysis patient care technician,1,1
+26,9,Iris Caldwell,27,F,0n-Profit Program Coordinator,1,0
+26,9,Keith Manley,27,M,Mentor/Coach,0,0
+27,9,Elizabeth Bice,29,F,Account Executive,1,1
+27,9,Jamie Thompson,35,M,Financial Technician,1,1
+28,9,Deonna McNeill,30,F,Operations Manager,1,1
+28,9,Gregory Okotie,32,M,Math Learning Center Owner,1,1
+29,9,Amber Bowles,27,F,Middle School Teacher,0,0
+29,9,Matthew Gwynne,31,M,Ex Professional Basketball Player,0,0
+30,10,Katie Conrad,25,F,Mental Health Professional,1,0
+30,10,Derek Sherman,26,M,Cyber Security Engineer,1,0
+31,10,Jessica Studer,31,F,Nurse Manager,1,1
+31,10,Austin Hurd,31,M,Network Technician,1,1
+32,10,Taylor Dunklin,27,F,Research Scientist,0,0
+32,10,Brandon Reid,34,M,Sales Manager,0,0
+33,10,Meka Jones,25,F,Category Analyst,0,0
+33,10,Michael Watson,31,M,Education Director,1,0
+34,10,Mindy Shiben,34,F,Figure Skating Coach,0,0
+34,10,Zach Justice,32,M,Fitness Professional,0,0
